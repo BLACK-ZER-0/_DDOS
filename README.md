@@ -11,7 +11,7 @@ pkg install python3
 
 git clone https://github.com/BLACK-ZER-0/_DDOS.git 
 
-cd ADI_DDOS
+cd _DDOS
 
 chmod +x *
 
