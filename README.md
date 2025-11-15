@@ -9,7 +9,7 @@ pkg upgrade
 
 pkg install python3 
 
-git clone https://github.com/ADIRTTA/ADI_DDOS.git 
+git clone https://github.com/BLACK-ZER-0/_DDOS.git 
 
 cd ADI_DDOS
 
